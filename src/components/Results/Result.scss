@@ -1,0 +1,26 @@
+.results-container {
+  background-image: url("https://jevelin.shufflehound.com/wp-content/uploads/2016/01/Home_1_paralax.jpg");
+  background-position: center 56.7px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  padding: 20px;
+
+  h3 {
+    color: white;
+    font-family: "raleway" !important;
+    font-size: 20px;
+    font-weight: 400 !important;
+    letter-spacing: 8px;
+    padding-top: 30px;
+  }
+  h2 {
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 0;
+    color: white;
+    font-family: "raleway" !important;
+    padding-bottom: 30px;
+  }
+}

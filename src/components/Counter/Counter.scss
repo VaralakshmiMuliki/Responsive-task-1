@@ -1,0 +1,50 @@
+.counter-container {
+  box-sizing: border-box;
+//   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  // align-items: center;
+  // text-align: center;
+}
+.counter-number {
+  color: #239cb7;
+//   width: 50%;
+  text-align: right;
+  font-size: 48px;
+  font-family: "Raleway" !important;
+  font-weight: 600;
+  padding-right: 18px;
+//   border: 1px solid red;
+
+}
+.counter-column {
+  // display: table-cell;
+  text-align: center;
+//   width: 50%;
+//   vertical-align: middle;
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  padding-left: 18px;
+  text-align: left;
+//   border: 1px solid red;
+
+  h2 {
+    color: #545454;
+    font-size: 18px;
+    font-family: "Raleway" !important;
+    font-weight: bold;
+  }
+  p {
+    color: #3f3f3f;
+    font-size: 18px;
+  }
+}
+.counter-table {
+  box-sizing: border-box;
+//   width: 100%;
+  // display: table;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  // border: 1px solid red;
+}

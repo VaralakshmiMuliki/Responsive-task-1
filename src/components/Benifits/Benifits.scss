@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+
+.benifit-logo{
+    height: 48px;
+    width: 48px;
+    color: #8D8D8D;
+}
+.benifits-card-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.benifit-title{
+    color: #505050;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: montserrat;
+}
+.description{
+    color: #8D8D8D;
+    font-size: 16px;
+    font-family: montserrat;
+}
+.logo-container{
+    position: relative;
+    border: 1px solid #8D8D8D;
+    height: 130px;
+    width: 130px;
+    border-radius: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.check-icon-box{
+    position: absolute;
+    left: 94px;
+    top: 94px;
+    background-color: white;
+}
+.check-icon{
+color: #979292;
+font-size: 30px;
+}
+

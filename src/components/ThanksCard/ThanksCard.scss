@@ -1,0 +1,39 @@
+.demo-button {
+  background-color: transparent;
+  //   width: 140px;
+  padding: 19px;
+  border: 2px solid white;
+  color: white;
+  border-radius: 30px;
+  font-weight: bold;
+  display: flex;
+  align-self: flex-end;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  //   width:'50%';
+  height: 35px;
+  width: 290px;
+}
+.thanks-container {
+  background-color: #47c9e5;
+  padding: 20px;
+  // display: flex;
+  // justify-content: space-around;
+  // text-align: center;
+  overflow: hidden;
+  font-size: 16px;
+  span {
+    color: white;
+    font-size: 20px;
+    width: 80%;
+  }
+}
+.type-write{
+  width: 50%;
+  height: 10vh;
+  font-size: 16px;
+  border: 1px solid red;
+}

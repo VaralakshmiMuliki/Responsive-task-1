@@ -1,0 +1,27 @@
+.logo-img-container {
+  background-image: url("https://jevelin.shufflehound.com/wp-content/uploads/2016/01/Agency_partners.jpg");
+  background-size: cover;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.logo {
+  width: 50%;
+  height: 40%;}
+
+.customer-image {
+  height: 92px;
+  width: 92px;
+  border-radius: 46px;
+}
+.customer-review-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bb{
+  border: 1px solid red;
+}

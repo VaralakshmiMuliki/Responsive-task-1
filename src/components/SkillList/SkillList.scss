@@ -1,0 +1,74 @@
+.skills-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  h2 {
+    font-family: "Raleway" !important;
+    font-size: 20px;
+    color: #8d8d8d;
+    letter-spacing: 8px;
+  }
+  strong {
+    color: #505050;
+    font-size: 20px;
+    font-weight: 700;
+  }
+}
+.skill-des {
+  color: #8d8d8d;
+  font-size: 14px;
+  font-family: "Raleway" !important;
+}
+.bar-head {
+  display: flex;
+  justify-content: space-between;
+
+  h2 {
+    color: #505050;
+    font-size: 16px;
+    font-style: "raleway" !important;
+  }
+  h3 {
+    color: #505050;
+    font-size: 14px;
+    font-style: "raleway" !important;
+  }
+}
+.image-mask-container {
+  background-image: url("https://cdn.jevelin.shufflehound.com/wp-content/uploads/2016/03/Home_1_slide_1.jpg");
+  // height: 100vh;
+  background-size: cover;
+  // filter: brightness(60%);
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 50px;
+
+}
+.handle-button{
+  background-color: #47c9e5;
+  height: 50px;
+  width: 50px;
+  border: 8px solid white;
+border-radius: 25px;
+
+}
+.skill-head-container{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.arrows{
+  color: white;
+  font-weight: bold;
+
+}
+.compare-imag-container{
+  width: 70%;
+}
+.skill-head{
+
+}

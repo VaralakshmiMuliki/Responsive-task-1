@@ -1,0 +1,53 @@
+.story-img {
+  object-fit: cover;
+}
+.row > * {
+  padding-left: 0px !important;
+}
+.brand-since {
+  font-family: "Raleway" !important;
+  font-size: 24px;
+  color: #8d8d8d;
+  letter-spacing: 8px;
+  font-weight: 400 !important;
+}
+.story-text-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  strong {
+    font-family: "montserrat";
+    font-size: 26px;
+    color: #505050;
+    padding: 20px;
+  }
+}
+.divider {
+  color: #8d8d8d;
+  height: 2px;
+  width: 40%;
+}
+.star-container {
+  // padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.star {
+  color: #8d8d8d;
+  font-size: 34px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.story-des {
+  line-height: 1.8;
+  color: #8d8d8d;
+  padding: 20px;
+  margin-bottom: 10px;
+}
